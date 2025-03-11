@@ -22,7 +22,7 @@
     "@ellucian/ds-icons": "https://cdn.elluciancloud.com/assets/EDS2/7.16.0/umd/path_design_system_icons.tgz",
     "@ellucian/experience-extension-utils": "https://cdn.elluciancloud.com/assets/SDK/utils/1.0.0/ellucian-experience-extension-utils-1.0.0.tgz",
     "@ellucian/react-design-system": "https://cdn.elluciancloud.com/assets/EDS2/7.16.0/umd/path_design_system.tgz",
-    "classnames": "2.2.6",
+    "classnames": "2.5.1",
     "date-fns": "2.29.3",
     "prop-types": "15.7.2",
     "react": "17.0.2",
